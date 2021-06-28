@@ -53,3 +53,12 @@ button {
     color: white;
     padding: 8px;
 }
+
+#message-2 {
+    margin-top: 23px;
+}
+
+#weather-icon {
+    float: left;
+    width: 5%;
+}
